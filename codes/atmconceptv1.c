@@ -70,7 +70,7 @@ int main() {
         }
 
         else if (userChoice == 4) {
-            printf("Ended the session. Thank You.");
+            printf("Ended the session. Thank You.\n");
         }
     }
 
@@ -110,7 +110,7 @@ int main() {
         }
         
         else if (userChoice == 4) {
-            printf("Ended the session. Thank You.");
+            printf("Ended the session. Thank You.\n");
         }
 }
 
@@ -148,7 +148,7 @@ int main() {
         }
     
         else if (userChoice == 4) {
-            printf("Ended the session. Thank You.");
+            printf("Ended the session. Thank You.\n");
         }
 }
 
@@ -186,7 +186,7 @@ int main() {
         }
     
         else if (userChoice == 4) {
-            printf("Ended the session. Thank You.");
+            printf("Ended the session. Thank You.\n");
         }
 }
     
@@ -220,7 +220,7 @@ int main() {
     }
     
         else if (userChoice == 4) {
-            printf("Ended the session. Thank You.");
+            printf("Ended the session. Thank You.\n");
         }
 }
     
