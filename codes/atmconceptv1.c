@@ -4,7 +4,7 @@ int main() {
     
     int accNumber, accPIN;
     
-    char menu[] = "Please select the menu to proceed.\n1. Show Balance\n2. Deposit\n3. Withdraw\n4. Exit\n";
+    char menu[] = "Welcome to XYZ BANK! \nPlease select the menu to proceed.\n1. Show Balance\n2. Deposit\n3. Withdraw\n4. Exit\n";
     int userChoice, depositAmount, newBal, withAmount, withAmountBal;
     
     int acc1 = 6969;
